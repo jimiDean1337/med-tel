@@ -23,7 +23,7 @@
     "nodemailer": "^6.2.1",
     "nodemailer-smtp-transport": "^2.7.4",
     "q": "^1.5.1",
-    "stripe": "^4.15.0"
+    "stripe": "^11.1.0"
   },
   "devDependencies": {
     "@types/email-templates": "^6.0.0",
